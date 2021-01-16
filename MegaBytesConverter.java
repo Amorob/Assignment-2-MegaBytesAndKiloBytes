@@ -1,5 +1,9 @@
 package com.assignment2.megabytesconverter;
 
+// Assignment 2
+// Name: Bagei Amoro Abdulai
+// Class: Java Class A
+
 public class MegaBytesConverter {
     public static void printMegaBytesAndKiloBytes(int kiloBytes){
         if(kiloBytes < 0){
